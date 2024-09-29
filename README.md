@@ -9,6 +9,7 @@ A simple project management app that helps you organize tasks within multiple pr
 - **Delete Projects**: Remove projects when they're no longer needed.
 - **Add Tasks**: Add tasks to a selected project to keep track of what needs to be done.
 - **Delete Tasks**: Remove tasks that are completed or no longer relevant.
+- **Error Modal**: A dialog box with error is shown if Invalid value added.
 - **Dynamic Interface**: The content changes based on whether a project is selected or not.
 
 ## How It Works
@@ -31,4 +32,5 @@ A simple project management app that helps you organize tasks within multiple pr
 - `SelectedProject`: Shows tasks for the selected project and allows task management.
 - `NewProject`: Lets you create a new project with a form.
 - `NewTask`: Lets you create a new task within a project.
+- `Modal`: Displays error dialog box on Invalid inputs
 
